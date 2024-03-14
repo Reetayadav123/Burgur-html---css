@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    padding: 1.3rem
+}
+.burger {
+    display: flex;
+}
+#img{
+    margin-right: 3rem;
+    width: 22rem;
+}
+.rupee {
+    margin-left: 15rem;
+}
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    height:44rem;
+    border: 2px solid black;
+    width: 26rem;
+    margin-left: 42rem;
+    padding: 2rem;
+    margin-top: 2rem;
+    border-radius: 2rem;
+    background-color: white;
+    background-color: white;
+}
+img{
+    height:10rem;
+    width:26rem;
+    border-top-left-radius:2rem;
+    border-top-right-radius:2rem;
+}
+.heading{
+    font-size: 3rem;
+}
+p{
+    border-bottom: 1px dashed black;
+}
